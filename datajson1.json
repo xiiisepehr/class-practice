@@ -1,0 +1,36 @@
+[
+	{
+		"name":"John",
+		"family":"Doe",
+		"description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+		"image":"images/1.jpg"
+	},
+
+	{
+		"name":"Boris",
+		"family":"Johnson",
+		"description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+		"image":"images/2.jpg"
+	},
+
+	{
+		"name":"Zac",
+		"family":"Efron",
+		"description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+		"image":"images/3.jpg"
+	},
+
+	{
+		"name":"Angelina",
+		"family":"Jolie",
+		"description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+		"image":"images/4.jpg"
+	},
+
+	{
+		"name":"Locus",
+		"family":"Chadman",
+		"description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+		"image":"images/5.jpg"
+	}
+]
